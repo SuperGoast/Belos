@@ -5,7 +5,7 @@ A hackathon emergency dispatch simulator for comparing nearest-available and fle
 ## Ownership
 
 - Frontend and initial repository setup: Lance
-- Backend, routing, and simulation: teammate 2
+- Backend, routing, and simulation: Ramsey 
 - Analytics, forecasting, and deployment: teammate 3
 
 ## Structure
